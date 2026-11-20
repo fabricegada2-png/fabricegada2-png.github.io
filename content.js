@@ -7,7 +7,7 @@ window.PORTFOLIO = {
     "tagline": "IAI-Togo, Lomé",
     "nameLine1": "Gada Omni",
     "nameLine2": "Fabrice",
-    "intro": "Étudiant en deuxième année d'informatique. Je m'intéresse surtout aux réseaux, et aussi au développement web.",
+    "intro": "Étudiant en deuxième année d'informatique. Je m'intéresse surtout à la cybersécurité,mais actuellement je me perfectionne en Administration Système et Réseaux, à la programmation et aussi au développement web.",
     "enter": "Voir mon parcours",
     "footer": "© 2026 Gada Omni Fabrice"
   },
@@ -20,17 +20,17 @@ window.PORTFOLIO = {
       "vlan": 10,
       "color": "#5eead4",
       "blocks": [
-        { "type": "text", "text": "Je suis en **deuxième année d'informatique** (tronc commun) à l'**Institut Africain d'Informatique (IAI-Togo)**, à Lomé.\n\nCe qui m'intéresse le plus, c'est l'**administration réseau** : l'adressage IP, les VLAN, le routage. Je fais aussi du **développement web**." },
+        { "type": "text", "text": "Je suis en **deuxième année d'informatique(TC2-D)** (tronc commun) à l'**Institut Africain d'Informatique (IAI-Togo)**, à Lomé.\n\nCe qui m'intéresse le plus, c'est La **Cybersécurité** :Le **Hacking Ethique**. Cependant, je fais de l'Administration Système et Réseau(ASR) via les cours de réseau à l'école et mon apprentisage sur la plateforme **Cisco Networking Academy** pour le moment, afin de me mieux consolider mon soubassement vers **la Cybersécurité** Après ma licence en *ASR*. Je m'initie également à la **Progammation en général** dont **Python, Java, Langage C** et du **développement web**." },
         { "type": "rows", "items": [
           { "label": "École", "text": "IAI-Togo — 2e année, tronc commun" },
-          { "label": "Ville", "text": "Lomé, Togo" }
+          { "label": "Ville", "text": "Lomé" }
         ] }
       ]
     },
     {
       "id": "reseaux",
       "label": "Réseaux",
-      "heading": "Ce que je sais faire en réseau.",
+      "heading": "Ce que je sais faire en réseau actuellement.",
       "device": "router",
       "vlan": 20,
       "color": "#7dd3fc",
@@ -85,7 +85,7 @@ window.PORTFOLIO = {
           { "label": "Anglais", "text": "B1" }
         ] },
         { "type": "subtitle", "text": "Loisirs" },
-        { "type": "text", "text": "Lecture,Musique, danse." }
+        { "type": "text", "text": "Lecture, Musique, danse." }
       ]
     },
     {
