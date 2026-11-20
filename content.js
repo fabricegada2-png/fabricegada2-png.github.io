@@ -80,12 +80,12 @@ window.PORTFOLIO = {
       "color": "#86efac",
       "blocks": [
         { "type": "rows", "items": [
-          { "label": "Ewe", "text": "Langue maternelle" },
+          { "label": "Nawda", "text": "Langue maternelle" },
           { "label": "Français", "text": "Bien" },
           { "label": "Anglais", "text": "B1" }
         ] },
         { "type": "subtitle", "text": "Loisirs" },
-        { "type": "text", "text": "Lecture, danse." }
+        { "type": "text", "text": "Lecture,Musique, danse." }
       ]
     },
     {
