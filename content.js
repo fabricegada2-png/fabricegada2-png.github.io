@@ -2,12 +2,12 @@
 window.PORTFOLIO = {
   "site": {
     "title": "Gada Omni Fabrice — Étudiant en informatique, réseaux & web",
-    "description": "Portfolio de Gada Omni Fabrice, étudiant en deuxième année d'informatique à l'IAI-Togo (Lomé) : réseaux, VLAN, Cisco Packet Tracer et pages web dynamiques.",
+    "description": "Portfolio de Gada Omni Fabrice, étudiant en deuxième année d'informatique à l'IAI-Togo (Lomé) : Cybersécurité, réseaux, VLAN, Cisco Packet Tracer et pages web dynamiques.",
     "logo": "Fabrice Gada",
     "tagline": "IAI-Togo, Lomé",
     "nameLine1": "Gada Omni",
     "nameLine2": "Fabrice",
-    "intro": "Étudiant en deuxième année d'informatique. Je m'intéresse surtout à la cybersécurité,mais actuellement je me perfectionne en Administration Système et Réseaux, à la programmation et aussi au développement web.",
+    "intro": "Étudiant en deuxième année d'informatique. Je m'intéresse surtout à la cybersécurité,mais actuellement je me perfectionne en Administration Système et Réseaux, à la programmation Objet et aussi au développement web.",
     "enter": "Voir mon parcours",
     "footer": "© 2026 Gada Omni Fabrice"
   },
@@ -20,7 +20,7 @@ window.PORTFOLIO = {
       "vlan": 10,
       "color": "#5eead4",
       "blocks": [
-        { "type": "text", "text": "Je suis en **deuxième année d'informatique(TC2-D)** (tronc commun) à l'**Institut Africain d'Informatique (IAI-Togo)**, à Lomé.\n\nCe qui m'intéresse le plus, c'est La **Cybersécurité** :Le **Hacking Ethique**. Cependant, je fais de l'Administration Système et Réseau(ASR) via les cours de réseau à l'école et mon apprentisage sur la plateforme **Cisco Networking Academy** pour le moment, afin de me mieux consolider mon soubassement vers **la Cybersécurité** Après ma licence en *ASR*. Je m'initie également à la **Progammation en général** dont **Python, Java, Langage C** et du **développement web**." },
+        { "type": "text", "text": "Je suis en **deuxième année d'informatique(TC2-D)** (tronc commun) à l'**Institut Africain d'Informatique (IAI-Togo)**, à Lomé.\n\nCe qui m'intéresse le plus, c'est La **Cybersécurité** :Le **Hacking Ethique**. Cependant, je fais de l'Administration Système et Réseau(ASR) via les cours de réseau à l'école et mon apprentisage sur la plateforme **Cisco Networking Academy** pour le moment, afin de me mieux consolider mon soubassement vers **la Cybersécurité** Après ma licence en **ASR**. Je m'initie également à la **Progammation en général** dont **Python, Java, Langage C** et du **développement web**." },
         { "type": "rows", "items": [
           { "label": "École", "text": "IAI-Togo — 2e année, tronc commun" },
           { "label": "Ville", "text": "Lomé" }
