@@ -2,7 +2,7 @@
 window.PORTFOLIO = {
   "site": {
     "title": "Gada Omni Fabrice — Étudiant en informatique, réseaux & web",
-    "description": "Portfolio de Gada Omni Fabrice, étudiant en deuxième année d'informatique à l'IAI-Togo (Lomé) : Cybersécurité, réseaux, VLAN, Cisco Packet Tracer et pages web dynamiques.",
+    "description": "Portfolio de Gada Omni Fabrice, étudiant en deuxième année d'informatique à l'IAI-Togo (Lomé) : Cybersécurité, Réseaux( simulation sur  Cisco Packet Tracer) et pages web dynamiques.",
     "logo": "Fabrice Gada",
     "tagline": "IAI-Togo, Lomé",
     "nameLine1": "Gada Omni",
